@@ -1,0 +1,23 @@
+Target Version:
+  v00.00.01
+
+Target Description:
+	Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+	veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+	commodo consequat.  Duis aute irure dolor in reprehenderit in voluptate
+	velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+	cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+	est laborum.
+
+Activity start:  2015-11-11 21:55
+Activity finish: xxxx-xx-xx xx:xx
+
+Target Tasks: 
+  - Some task that haven't been started yet.
+  - Some task that haven't been started but takes
+    on more than one line.
+  o Some task I'm currently working on.
+  x Task I've already done #1.
+  x Task I've already done #2.
+  x Task I've already done #3.
