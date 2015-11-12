@@ -5,4 +5,4 @@ An example file is available as example.todo, and a screenshot on how it looks u
 
 ![Screenshot](sshot.png?raw=true)
 
-Basic configuration uses <Enter> to cycle through a task's states (Todo, Doing, Done).
+Basic configuration uses Enter to cycle through a task's states (Todo, Doing, Done).
